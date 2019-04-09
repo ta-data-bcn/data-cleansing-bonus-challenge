@@ -3,7 +3,7 @@
 # Lab | Data Cleaning Bonus Challenge
 The objectives of this lab are:
 * Know the Iris Dataset (you will use it tomorrow)
-* Review cleansing concepts
+* Review cleaning concepts
 
 ## Introduction
 As you know, data comes with a lot of errors. In this lab we propose you a challenge. We have purposely added some errors to the famous [Iris flower dataset](https://en.wikipedia.org/wiki/Iris_flower_data_set). Let's take a look on the data and fix some possible errors as:
