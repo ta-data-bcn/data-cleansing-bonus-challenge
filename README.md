@@ -1,6 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Lab | Data Cleansing Bonus Challenge
+# Lab | Data Cleaning Bonus Challenge
 The objectives of this lab are:
 * Know the Iris Dataset (you will use it tomorrow)
 * Review cleansing concepts
